@@ -64,7 +64,7 @@ When you have finished coding and have pushed up your branch, submit your PR tar
 
 ## <a name="testing"></a> Tests
 
-Contributions which make changes to code need tests to reflect them. If functionality is removed, any local tests in the repo testing that functionality should be removed, and any added functionality needs new tests.
+Contributions which make changes to code need tests to reflect them. If functionality is removed, any local tests in the repo testing that functionality should be removed; any added functionality needs new tests.
 
-Generally, the PDA team considers tests dealing with straight logic should be done within the component repository as karma/expect tests (using whatever framework is already in the component). For tests involving display, UI (mouse clicks, keystrokes) and DOM/browser-oriented actions, we prefer Selenium tests. If your team has QA/QEs, you should work with the to write Selenium and Appium tests using our [UX Test Platform](https://github.com/Pearson-Higher-Ed/ux-test-platform). If you do not have any QA/QEs on your team, contant PDA's QA department.
+Generally, the PDA team considers tests dealing with straight logic should be done within the component repository as karma/expect tests (using whatever framework is already in the component). For tests involving display, UI (mouse clicks, keystrokes) and DOM/browser-oriented actions, we prefer Selenium tests. If your team has QA/QEs, you should work with them to write Selenium and Appium tests using our [UX Test Platform](https://github.com/Pearson-Higher-Ed/ux-test-platform). If you do not have any QA/QEs on your team, contant PDA's QA department.
 
