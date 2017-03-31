@@ -24,13 +24,13 @@ config=0
 progress=false
 ```
 
-and if this line is in your .npmrc file:
+and *if this line* is in your .npmrc file:
 
 ```
-always-auth: true
+always-auth=true
 ```
 
-either set it to false, or remove it entirely. Otherwise you may get errors such as
+either *set it to false, or remove it entirely*. Otherwise you may get errors such as
 
 ```
 [ERROR] npm ERR! 404 User not found : @pearson-components/<component name>
