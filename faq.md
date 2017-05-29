@@ -1,4 +1,4 @@
-# Frequently Aasked Questions
+# Frequently Asked Questions
 
 This is not currently an official FAQ but can become one once enough teams have
 integrated the SDKs into their workflows, based on queries in the PDA HELP
